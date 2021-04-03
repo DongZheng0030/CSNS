@@ -1,2 +1,2 @@
 # CSNS
-The code for our paper
+The code of our paper
